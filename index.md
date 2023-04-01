@@ -2,7 +2,7 @@
 title: Home
 layout: Page
 ---
-
+# Flowers Recognizer
 
 Can classify 10 different types of flowers <br/>
 The types are following: <br/>
