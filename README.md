@@ -26,9 +26,6 @@ Details can be found in `notebooks/data_prep.ipynb`
 
 # Model Deployment
 I deployed to model to HuggingFace Spaces Gradio App. The implementation can be found in the `deployment` folder and in the corresponding [Space](https://huggingface.co/spaces/rizveehasan19/flowers_recognizer). <br/>
-<img src = "deployment/Hf_spaces.png" width="700" height="350">
-Confusion Matrix: 
-<img src = "deployment/confusion_matrix.png" width="700" height="350">
 
 # API integration with GitHub Pages
 The deployed model API is integrated in [GitHub Pages](https://rizveehasan19.github.io/Flowers-Recognizer/) Website. Implementation and other details can be found in `docs` folder.
