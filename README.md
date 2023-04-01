@@ -25,7 +25,7 @@ Details can be found in `notebooks/data_prep.ipynb`
 **Data Cleaning:** I cleaned and updated data using fastai `ImageClassifierCleaner`. I cleaned the data each time after training or fine tuning, except for the last time which was the final iteration of the model. <br/>
 
 # Model Deployment
-I deployed to model to `HuggingFace Spaces Gradio App`. The implementation can be found in the `deployment` folder and in the corresponding [Space](https://huggingface.co/spaces/rizveehasan19/flowers_recognizer). <br/>
+I deployed to model to `HuggingFace Spaces Gradio App`. The implementation can be found in the `app` folder and in the corresponding [Space](https://huggingface.co/spaces/rizveehasan19/flowers_recognizer). <br/>
 
 # API integration with GitHub Pages
 The deployed model API is integrated in [GitHub Pages](https://rizveehasan19.github.io/Flowers-Recognizer/) Website. Implementation and other details can be found in `docs` folder.
