@@ -1,0 +1,9 @@
+remote_theme: jekyll-theme-simplex@master
+plugins:
+- jekyll-remote-theme
+
+title: Flowers Recognizer
+description: An image classification API that classifies 10 different types of flowers
+
+author:
+  name: Md Rizvee Hasan
