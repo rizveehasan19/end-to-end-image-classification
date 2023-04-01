@@ -1,9 +1,9 @@
 ---
 title: Home
-layout: page
+layout: Page
 ---
 
-# Image Recognizer 
+
 Can classify 10 different types of flowers <br/>
 The types are following: <br/>
 1. aster
