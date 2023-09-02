@@ -1,4 +1,4 @@
-# Flowers-Recognizer
+# end-to-end-image-classification
 
 This is an image classification project that includes data collection, cleaning, model training, deployment and API integration. <br/>
 This model can classify `10` different types of flowers <br/>
